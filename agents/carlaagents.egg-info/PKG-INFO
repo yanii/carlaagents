@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: carlaagents
+Version: 0.9.5
+Summary: Python Agents code.
+Home-page: https://github.com/carla-simulator/carla
+Author: The CARLA team
+Author-email: carla.simulator@gmail.com
+License: MIT License
+Description: UNKNOWN
+Platform: UNKNOWN
